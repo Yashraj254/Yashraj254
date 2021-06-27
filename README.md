@@ -1,19 +1,19 @@
-<h2> Hey there! I'm Animesh.</h2>
+<h2> Hey there! I'm Yashraj.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies like Data Science, Machine Learning, Deep Learning, Blockchain, Full Stack Web Development.
-- 🎓 &nbsp; Self Studying Computer Science, Statistics, ML, Web Development and many other technologies from Youtube and Blogs.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Cryptography and Artificial Intelligence.
-- ✍️ &nbsp; Working on my Articulation Skills and Jump Rope Combinations in my leizure time.
+- 🤔 &nbsp; Exploring new technologies like Game development, hybrid app development,java development,Web Development.
+- 🎓 &nbsp; Self Studying Computer Science, Android development, Data Structures and Algorithm, and many other technologies from Youtube and Blogs.
+- 🌱 &nbsp; Learning more about Animations, 3D modeling, Vfx design.
+- ✍️ &nbsp; Working on my Articulation Skills and computer hardware knowledge in my leizure time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&style=flat)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&style=flat)
+  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp&style=flat)
+  ![Dart](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=00599C)
   ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=julia)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -34,10 +34,9 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -59,7 +58,7 @@
   ![](https://img.shields.io/badge/-Blockchain%20Developer-333333?style=flat)
 <br/>
 
-<a href="https://github.com/animesharma3">
+<a href="https://github.com/Yashraj254">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashraj254&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj254&theme=buefy&layout=compact" />
 </a>
@@ -72,8 +71,6 @@
 <a href="https://animesh-sharma-resume.herokuapp.com/
 "><img alt="Website" src="https://img.shields.io/badge/Resume-Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/animesh-sharma-73300a161/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Animesh%20Sharma-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/animesharma3/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-animesharma3-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:animesharma3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-animesharma3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [animesharma3](https://github.com/animesharma3)
+⭐️ From [Yashraj254](https://github.com/Yashraj254)
