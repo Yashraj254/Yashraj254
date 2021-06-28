@@ -13,8 +13,8 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&style=flat)
   ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp&style=flat)
-  ![Dart](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=00599C)
+  ![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart&style=flat)
+  ![XML](https://img.shields.io/badge/-xml-333333?style=flat&logo=solidity&logoColor=00599C)
   ![Julia](https://img.shields.io/badge/-Julia-333333?style=flat&logo=julia)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -44,18 +44,16 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
   ![Colab Notebook](https://img.shields.io/badge/-Colab-333333?style=flat&logo=googlecolab)
   ![Spyder](https://img.shields.io/badge/-Spyder-333333?style=flat&logo=spyderide)
   ![](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 - 🖥 &nbsp;
-  ![](https://img.shields.io/badge/-Full%20Stack%20Web%20Development-333333?style=flat)
-  ![](https://img.shields.io/badge/-Data%20Science-333333?style=flat)
-  ![](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat)
-  ![](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat)
-  ![](https://img.shields.io/badge/-Data%20Visualization-333333?style=flat)
-  ![](https://img.shields.io/badge/-Blockchain%20Developer-333333?style=flat)
+  ![](https://img.shields.io/badge/-Android%20Development-333333?style=flat)
+  ![](https://img.shields.io/badge/-Hybrid%20App%20Development-333333?style=flat)
+  ![](https://img.shields.io/badge/-Game%20Development-333333?style=flat)
+  ![](https://img.shields.io/badge/-Web%20Development-333333?style=flat)
 <br/>
 
 <a href="https://github.com/Yashraj254">
@@ -70,7 +68,7 @@
 <p align="center">
 <a href="https://animesh-sharma-resume.herokuapp.com/
 "><img alt="Website" src="https://img.shields.io/badge/Resume-Website-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/animesh-sharma-73300a161/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Animesh%20Sharma-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yashraj-singh-47734b179/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yashraj-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [Yashraj254](https://github.com/Yashraj254)
