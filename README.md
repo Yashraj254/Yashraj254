@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://animesh-sharma-resume.herokuapp.com/
+<a href="#
 "><img alt="Website" src="https://img.shields.io/badge/Resume-Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/yashraj-singh-47734b179/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yashraj-blue?style=flat-square&logo=linkedin"></a>
 </p>
