@@ -12,7 +12,6 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&style=flat)
-  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp&style=flat)
   ![Dart](https://img.shields.io/badge/-dart-333333?style=flat&logo=dart&style=flat)
   ![XML](https://img.shields.io/badge/-xml-333333?style=flat&logo=solidity&logoColor=00599C)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -30,10 +29,9 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 - 🖥 &nbsp;
   ![](https://img.shields.io/badge/-Android%20Development-333333?style=flat)
-  ![](https://img.shields.io/badge/-Game%20Development-333333?style=flat)
+  ![](https://img.shields.io/badge/-Flutter%20Development-333333?style=flat)
 <br/>
 
 <a href="https://github.com/Yashraj254">
@@ -46,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="#
+<a href="yash-raj.com
 "><img alt="Website" src="https://img.shields.io/badge/Resume-Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/yashraj-singh-47734b179/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yashraj-blue?style=flat-square&logo=linkedin"></a>
 </p>
