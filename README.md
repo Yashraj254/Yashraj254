@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashraj_254" target="blank"><img src="https://img.shields.io/twitter/follow/yashraj_254?logo=twitter&style=for-the-badge" alt="yashraj_254" /></a> </p>
 
-- 🌱 I’m currently learning **android development, Next.Js**
+- 🌱 I’m currently learning **Android development, Web development**
 
 - 💬 Ask me about **Android**
 
