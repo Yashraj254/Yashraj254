@@ -24,9 +24,6 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="yashraj-singh-47734b179" height="40" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/yashraj254" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="yashraj254" height="40" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
