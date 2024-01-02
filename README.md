@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashr7651@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
   
 <a href="https://twitter.com/yashraj_254" target="blank">
@@ -105,10 +105,10 @@
 
 <img src = "https://holopin.me/yashraj254"/>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashraj254&show_icons=true&locale=en&layout=compact" alt="yashraj254" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashraj254&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashraj254&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj254&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraj254&show_icons=true&locale=en" alt="yashraj254" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj254&" alt="yashraj254" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yashraj254&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
